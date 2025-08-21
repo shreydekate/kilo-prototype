@@ -2,6 +2,7 @@
  Minimal text editor built entirely in C. Used [snaptoken's kilo tutorial](https://viewsourcecode.org/snaptoken/kilo/index.html) as a starting point.
 
  ## Setup
+ Make sure to run this in a Linux environment. If using Windows, download and use Bash.
  ```
 make
 ./kilo [file_name - optional argument]
