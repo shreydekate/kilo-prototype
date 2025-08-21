@@ -14,6 +14,6 @@ Ctrl+Q to quit, Ctrl+S to save, Ctrl+F to find/search
 ## Future features to implement
 - Ctrl-C/Ctrl-V
 - Split screen?
-- Text editor navigation commands that don't disappear 5 seconds after a keypress
+- Permanently displaying text editor navigation command sequences
 - Support for other filetypes in terms of syntax coloring and highlighting
 - More potential features suggested [here](https://viewsourcecode.org/snaptoken/kilo/08.appendices.html#ideas-for-features-to-add-on-your-own)
